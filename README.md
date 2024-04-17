@@ -1,2 +1,2 @@
 # ElectricityBillDistributor-java
-This my java project of Electricity Bill Distributor for university hostel and other local communities.
+This is my Java project on Electricity Bill distribution for the University hostels and other local communities.
